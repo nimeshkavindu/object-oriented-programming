@@ -1,4 +1,4 @@
-# ITE 2132 - Object Oriented Programming
+# Object Oriented Programming in JAVA
 
 ---
 
